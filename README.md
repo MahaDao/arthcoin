@@ -1,4 +1,7 @@
-# Multi Collateral Dai
+Laxmicoin - Decentralized Cryptocurrency pegged to the Indian Rupee
+=========
+
+Laxmicoin is a fork of the DAI stablecoin by MakerDAO. It is configured to take a INR/ETH price feed instead of a USD/ETH price feed, making this stablecoin pegged to the INR.
 
 This repository contains the core smart contract code for Multi
 Collateral Dai. This is a high level description of the system, assuming
