@@ -6,7 +6,7 @@ ARTH is a fork of the DAI stablecoin by MakerDAO. It is configured to take a spe
 This repository contains the core smart contract code for Multi
 Collateral Dai. This is a high level description of the system, assuming
 familiarity with the basic economic mechanics as described in the
-whitepaper.
+MakerDAO whitepaper.
 
 ## Additional Documentation
 
