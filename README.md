@@ -1,7 +1,7 @@
-Laxmicoin - Decentralized Cryptocurrency pegged to the Indian Rupee
+ARTH v1 - Decentralized Cryptocurrency pegged to a basket of assets.
 =========
 
-Laxmicoin is a fork of the DAI stablecoin by MakerDAO. It is configured to take a INR/ETH price feed instead of a USD/ETH price feed, making this stablecoin pegged to the INR.
+ARTH is a fork of the DAI stablecoin by MakerDAO. It is configured to take a special price feed tied to a basket of assets instead of a USD/ETH price feed, making this stablecoin pegged to the basket's buying power.
 
 This repository contains the core smart contract code for Multi
 Collateral Dai. This is a high level description of the system, assuming
